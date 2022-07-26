@@ -1114,7 +1114,7 @@ header nav .form i {
   .contact .content .info {
     display: inline-flex;
     justify-content: space-evenly;
-    margin: 0 -30px 20px;
+    margin-bottom: 20px;
   }
 
 }
